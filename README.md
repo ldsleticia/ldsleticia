@@ -17,3 +17,5 @@
 - 📫 Como entrar em contato comigo: https://www.linkedin.com/in/let%C3%ADcia-dos-santos/
 - 😄 Pronomes: Ela
 - ⚡ Curiosidade: Adoro comer hambúrgueres e sou apaixonada por Naruto
+
+![naturo_sabio](https://user-images.githubusercontent.com/34607590/102846507-e9e04a80-43ee-11eb-8fc6-71c93368f879.gif)
