@@ -18,4 +18,4 @@
 - 😄 Pronomes: Ela
 - ⚡ Curiosidade: Adoro comer hambúrgueres e sou apaixonada por Naruto
 
-![alt text](http://https://static.wikia.nocookie.net/powerlisting/images/7/70/Toads_of_Mount_My%C5%8Dboku_Naruto.gif/revision/latest?cb=20200729154156/to/img.png)
+http://https://static.wikia.nocookie.net/powerlisting/images/7/70/Toads_of_Mount_My%C5%8Dboku_Naruto.gif/revision/latest?cb=20200729154156
