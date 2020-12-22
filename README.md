@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ldsleticia/ldsleticia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Nubank
 - 🌱 I’m currently learning Web Full Stack
 - 🤔 I’m looking for help with JavaScript
@@ -23,5 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronomes: Ela
 - ⚡ Curiosidade: Adoro comer hambúrgueres e sou apaixonada por Naruto
 
--->
 ![alt text](http://https://static.wikia.nocookie.net/powerlisting/images/7/70/Toads_of_Mount_My%C5%8Dboku_Naruto.gif/revision/latest?cb=20200729154156/to/img.png)
