@@ -1,13 +1,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/let%C3%ADcia-dos-santos/)](https://www.linkedin.com/in/let%C3%ADcia-dos-santos/)
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldsleticia&hide=html&layout=compact" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ldsleticia&show_icons=true&theme=radical" /></td>
-    </tr>   
-  </table>
-</center>
+<p align="center">
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldsleticia&hide=html&layout=compact" />
+  <img width="500px" align="rigth" src="https://github-readme-stats.vercel.app/api?username=ldsleticia&show_icons=true&theme=radical" />
+</p>
+
+___
 
 - 🔭 I’m currently working on Nubank
 - 🌱 I’m currently learning Web Full Stack
