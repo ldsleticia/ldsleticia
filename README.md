@@ -2,7 +2,7 @@
 
 <p align="center">
   <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldsleticia&hide=html&layout=compact" />
-  <img width="400px" align="rigth" src="https://github-readme-stats.vercel.app/api?username=ldsleticia&show_icons=true&theme=radical" />
+  <img width="400px" align="rigth" src="https://github-readme-stats.vercel.app/api?username=ldsleticia&show_icons=true&theme=buefy" />
 </p>
 
 ___
