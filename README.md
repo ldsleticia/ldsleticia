@@ -1,10 +1,18 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/let%C3%ADcia-dos-santos/)](https://www.linkedin.com/in/let%C3%ADcia-dos-santos/)
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldsleticia&hide=html&layout=compact" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ldsleticia&show_icons=true&theme=radical" /></td>
+    </tr>   
+  </table>
+</center>
 
 - 🔭 I’m currently working on Nubank
 - 🌱 I’m currently learning Web Full Stack
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about aliens because I really like talk about aliens
-- 📫 How to reach me: https://www.linkedin.com/in/let%C3%ADcia-dos-santos/
 - 😄 Pronouns: She
 - ⚡ Fun fact: I'm in love with eating hamburgers and I'm in love with Naruto
 
@@ -14,7 +22,6 @@
 - 🌱 Atualmente, estou aprendendo Web Full Stack
 - 🤔 Estou procurando ajuda com JavaScript
 - 💬 Pergunte-me sobre alienígenas porque eu realmente gosto de falar sobre alienígenas
-- 📫 Como entrar em contato comigo: https://www.linkedin.com/in/let%C3%ADcia-dos-santos/
 - 😄 Pronomes: Ela
 - ⚡ Curiosidade: Adoro comer hambúrgueres e sou apaixonada por Naruto
 
