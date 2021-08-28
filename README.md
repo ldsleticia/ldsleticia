@@ -2,6 +2,7 @@
 Olá, eu sou a Letícia, bem vindo(a) ao meu perfil
 ##
 
+<center
 <p align="center">
   <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldsleticia&hide=html&layout=compact&theme=buefy" />
   <img width="400px" align="rigth" src="https://github-readme-stats.vercel.app/api?username=ldsleticia&show_icons=true&theme=buefy" />
@@ -13,8 +14,8 @@ Olá, eu sou a Letícia, bem vindo(a) ao meu perfil
   <img align="center" alt="Leticia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leticia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg">
+  <img align="center" alt="Leticia-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Leticia-Clojure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg">
 </div>
 
 ##
