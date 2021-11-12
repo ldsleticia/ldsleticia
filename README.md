@@ -5,13 +5,14 @@ Olá, eu sou a Letícia, bem vindo(a) ao meu perfil
 <p align="center">Você é o visitante n° </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/ldsleticia/count.svg" /></p>
 
+
 <center
 <p align="center">
-  <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldsleticia&hide=html&layout=compact&theme=buefy" />
-  <img width="400px" align="rigth" src="https://github-readme-stats.vercel.app/api?username=ldsleticia&show_icons=true&theme=buefy" />
+  <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldsleticia&hide=html&layout=compact&theme=github_dark" />
+  <img width="400px" align="rigth" src="https://github-readme-stats.vercel.app/api?username=ldsleticia&show_icons=true&theme=github_dark" />
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ldsleticia&theme=blue-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </p>
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leticia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
