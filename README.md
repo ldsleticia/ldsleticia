@@ -2,6 +2,9 @@
 Olá, eu sou a Letícia, bem vindo(a) ao meu perfil
 ##
 
+<p align="center">Você é o visitante n° </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/ldsleticia/count.svg" /></p>
+
 <center
 <p align="center">
   <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldsleticia&hide=html&layout=compact&theme=buefy" />
