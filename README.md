@@ -1,6 +1,6 @@
 <p align="center"
    
-[![GitHub Streak](https://github.com/ldsleticia/gamaPanAcademyJavaBasico/blob/main/panGamaAcademy/assets/download20211104220102.png)
+![GitHub Streak](https://github.com/ldsleticia/gamaPanAcademyJavaBasico/blob/main/panGamaAcademy/assets/download20211104220102.png)
 
 </p>
 
