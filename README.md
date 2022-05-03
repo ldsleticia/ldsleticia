@@ -15,7 +15,7 @@
   <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldsleticia&hide=html&layout=compact&theme=github_dark" />
 </p>
 
-<p align="right">
+<!-- <p align="right">
    <img width="400px" align="rigth" src="https://github-readme-stats.vercel.app/api?username=ldsleticia&show_icons=true&theme=github_dark" />
 </p>
 
@@ -26,7 +26,7 @@
   <img align="center" alt="Leticia-Clojure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/clojure/clojure-original.svg">
   <img align="center" alt="Leticia-Clojure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Leticia-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-</div>
+</div> -->
 
 ##
 
