@@ -38,10 +38,8 @@
 # Olá Mundo
 
   Formada em Administração pelas Faculdades Metropolitanas Unidas, apaixonada por tecnologia e adorando cada segundo que passo escovando bit. <br>
-  Atualmente tenho focado meus estudos em Java Backend. <br>
-  Uma frase que vi pelos meus devaneios programadores e que adoro por trazer aquela boa dose de humor que todo programador precisa é:<br>     
-  "Não é falta de café, nem Tequila,<br>
-  É meu código que não compila" <br><br>
+  Atualmente trabalho na Shopee como desenvolvedora full stack mas confesso que minha paixão é o front-end. <br>
+ 
   Parafraseando Sakura Haruno, <br><br>
   "As coisas mais importantes não estão escritas num livro, <br>
   é preciso aprendê-las vivenciando-as sozinho."<br><br>
